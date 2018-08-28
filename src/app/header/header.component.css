@@ -1,0 +1,11 @@
+
+.divpadre{
+    width: 100%;
+    background-color:#00000086;
+	position: fixed;
+	top:0px;
+    z-index:1000;
+    margin:0px;
+    margin-left: 0px;
+
+}
